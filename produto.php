@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style/cadastroProduto.css">
 </head>
 <body>
+    <!-- formulario -->
     <div class="container">
         <h1>Cadastro de Produto</h1>
         <form action="produto.php" method="POST">
